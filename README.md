@@ -1,2 +1,3 @@
 # BIGDATA-APACHE-FLINK
 Ứng dụng trong bài toán xử lý dữ liệu theo luồng
+Nghiên cứu "Tìm hiểu về Apache Flink và ứng dụng trong bài toán xử lý dữ liệu theo luồng" gồm 2 thành viên, hoàn thành trong thời gian 5 tuần. Đề tài ngoài nghiên cứu lý thuyết nguyên lý hoạt động của Apaceh Flink trong xử lý dữ liệu tại thời gian thực còn tìm hiểu các công nghệ xử lý dữ liệu khác như Hadoop, Spark, Apache Kafka. Bài nghiên cứu còn xây dựng một demo về bài toán đếm số lượng từ với hệ điều hành Ubuntu. Tuy chưa đi sâu vào các công nghệ song đã được tiếp cận đến các công nghệ xử lý dữ liệu lớn một cách khoa học
